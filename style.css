@@ -1,0 +1,21 @@
+body {
+  color: #120227;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #120227;
+  color: #FFFFFF;
+}
+
+#projects {
+  background-color: #120227;
+}
+#projects h2{
+  background-color: #120227;
+  color: #FFFFFF;
+}
+
+section{
+  padding-top: 5rem;
+}
